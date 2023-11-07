@@ -1,0 +1,65 @@
+.headerContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.scoreContainer, .cardsMainContainer{
+    display: grid;
+    align-content: space-between;
+}
+
+.cardsMainContainer{
+    text-align: end;
+}
+
+.score{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.errorMsg{
+    color: red;
+}
+
+.cardsContainer{
+    display: flex;
+    gap: 10px;
+}
+
+div.cardsContainer + p{
+    text-align: end;
+}
+
+.mainContainer{
+    margin-top: 40px;
+}
+
+.gameContainer{
+    width: 250px;
+    margin: auto;
+    text-align: center;
+}
+
+.rulesContainer{
+    padding: 20px;
+}
+
+.btnContainer{
+    gap: 15px;
+    display: grid;
+}
+
+.btn{
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.resetBtn{
+    border: 2px solid;
+}
+
+.rulesBtn{
+    background-color: black;
+    color: white;
+}
