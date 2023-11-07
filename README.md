@@ -1,3 +1,6 @@
+## Roll the Dice
+This app is a simple and engaging game where you can test your luck and intuition. Players select a number, roll the dice, and aim to match their chosen number with the dice outcome. When successful, they earn points equal to the dice value, and when they guess incorrectly, they lose 2 points. It's a fun and challenging way to test your prediction skills and luck.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
